@@ -2,7 +2,7 @@
 
 Include a project description that explains **what** your project is and **why** it exists. Aim for no more than 3-5 concise sentences. For example, you might say:
 
-{Project Name} is a project of {Your Brigade}. {Your Brigade} is a brigade of a Code for America that exists to {your mission}. {Project Name} helps {target users} accomplish {goal of project}. The {app/site/thing you're building}'s main features include {very brief feature descriptions}.
+{Project Name} is a project of Hack for LA. Hack for LA is a brigade of a Code for America that exists to {your mission}. {Project Name} helps {target users} accomplish {goal of project}. The {app/site/thing you're building}'s main features include {very brief feature descriptions}.
 
 ### Project context
 
@@ -42,7 +42,7 @@ Remember to provide direct links to each channel.
 - Explain how to submit a feature request.
 - Explain how to contribute to an existing issue.
 
-If you want your issues submitted in a particular format, explain how (or create [issue templates](https://help.github.com/en/articles/creating-issue-templates-for-your-repository)).
+To create a new issue, please use the blank issue template (available when you click New Issue).  If you want to create an issue for other projects to use, please create the issue in your own repository and send a slack message to one of your hack night hosts with the link.
 
 
 ### Working with forks and branches
