@@ -13,6 +13,7 @@ Provide collateral for the HackforLA website
 ### Action Items
 - [ ]   Gather items
   - [ ]  600 x 400 image
+  - [ ]  Alt image text
   - [ ]  Name of project
   - [ ]  A blurb about your project
   - [ ]  Links (website, github, etc.)
