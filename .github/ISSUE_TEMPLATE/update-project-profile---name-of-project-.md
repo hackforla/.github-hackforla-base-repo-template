@@ -13,12 +13,11 @@ Update the following fields for your project. These updated fields will then be 
 
 ### Action Items
 - [ ] Update wording of anything currently on the project card (see [hackforla.org](https://www.hackforla.org/))
-- [ ] Update "Tools" Section to display the tools being used for the project (Ex: figma, Balsamiq, photoshop, etc.)
+- [ ] Provide information on which Tools your team is using for the project (Ex: figma, Balsamiq, photoshop, etc.) . This is different than programming languages
 - [ ] Update "Looking For" Section
 - [ ] Update any links that are not currently displayed on the site (do you have a demo site?)
-- [ ] Banner Image to be displayed on project specific page 16:9 ratio (min width 1200px)
+- [ ] Hero image to be displayed on Project Home Page at 1500 x 700 px
 - [ ] Any resources for a Getting Started link (either a link to a wiki or readme)
 
 ### Resources/Instructions
-Rough example of a good banner image from the helloGOV project:
-![](https://user-images.githubusercontent.com/37763229/71553521-b75f6580-29c5-11ea-892e-0f0391069dc7.png)
+See the hero image on the [hackforla.org](https://www.hackforla.org/) homepage
