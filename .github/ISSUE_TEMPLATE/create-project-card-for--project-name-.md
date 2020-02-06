@@ -19,6 +19,7 @@ Provide collateral for the HackforLA website
   - [ ]  Name of project
   - [ ]  A blurb about your project
   - [ ]  Links (github, slack channel url, Testing Site, Live Site, etc.)
+  - [ ]  Any resources for a Getting Started link (a link to a wiki, readme(s) or both)
   - [ ]  What you are looking for skills wise
   - [ ]  Partner(s)
   - [ ]  Location
