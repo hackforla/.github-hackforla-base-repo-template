@@ -8,11 +8,13 @@ assignees: ''
 ---
 
 ### Overview 
-REPLACE THIS TEXT - 
+Describe the purpose for the proposal change
 
 ### Action items
-- [ ] Indicate current state
-- [ ] Indicate desired future state
+- [ ] Indicate current state in a yaml snipit here:
+
+- [ ] Indicate desired future state in a yaml snipit here:
+
 - [ ] Perform test 
    - [ ] one project.md file
    - [ ] updating logic of appropriate include file
@@ -22,6 +24,7 @@ REPLACE THIS TEXT -
 - [ ] Submit pull request - indicating Issue #294 is affected (format changes log), and the text "fixes Issue #[number that you are creating now]
 
 ### Resources
-Wiki page - [Template of a project.md file](https://github.com/hackforla/website/wiki/Template-of-a-project.md-filehttps://github.com/hackforla/website/wiki/Template-of-a-project.md-file)
+Wiki page - [Template of a project.md file](https://github.com/hackforla/website/wiki/Template-of-a-project.md-file)
 
 ***Links to comments on other issues where this proposal originated***
+REPLACE TEXT - put links here
