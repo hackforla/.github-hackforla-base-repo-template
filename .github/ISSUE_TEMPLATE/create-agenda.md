@@ -39,4 +39,7 @@ This issue tracks the agenda for our weekly meetings
 ### Task Items
 ```
 
+### Links to other agenda issues for your team 
+(so that you can easily post on their agendas items that come up at yours)
+
 ### Previous Meetings (link to each comment with the date)
