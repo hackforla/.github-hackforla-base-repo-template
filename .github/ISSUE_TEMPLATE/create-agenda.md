@@ -8,9 +8,35 @@ assignees: ''
 ---
 
 ### Overview
-Gather all items team members want to propose for this weeks' agenda.
+This issue tracks the agenda for our weekly meetings
 
-### Action Items
-Add comment to this issue with your proposed agenda item. if item warrants an issue of its own please start a new issue, by going to the issues tab above and clicking on the New Issues green button.
+#### Issue Template
+```
+## [Date ]  Meeting Agenda
 
-z
+### Prework to prep for meeting
+- [ ] #
+
+### Recurring items: Happens on the ________ meeting
+ - [ ] review any issues that are in the [new issue approval column]
+ - [ ] Accountability and Support Check.
+    - [ ] Review assignments for each Team member
+       - [ ] [Name of Person] link to the issue tab with their issues assigned 
+- [ ] finish adding labels to the issue that are still missing them (see audit links above)
+- [ ] review issues with [epic label] and define how to break down further
+- [ ] Review to see if there are any members to Onboard or Offboard 
+      - [ ]  #
+
+### New Items
+- [ ] 
+- [ ] Carry over Items to next meeting that don't get addressed
+
+### FYIs
+-
+
+### Notes from Meeting
+
+### Task Items
+```
+
+### Previous Meetings (link to each comment with the date)
