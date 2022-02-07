@@ -21,7 +21,7 @@ This issue tracks the agenda for our weekly meetings
  - [ ] review any issues that are in the [new issue approval column]
  - [ ] Accountability and Support Check.
     - [ ] Review assignments for each Team member
-       - [ ] [Name of Person] link to the issue tab with their issues assigned 
+       - [ ] [Name of Person]
 - [ ] finish adding labels to the issue that are still missing them (see audit links above)
 - [ ] review issues with [epic label] and define how to break down further
 - [ ] Review to see if there are any members to Onboard or Offboard 
