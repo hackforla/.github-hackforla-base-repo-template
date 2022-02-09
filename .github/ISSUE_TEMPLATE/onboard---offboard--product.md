@@ -23,6 +23,7 @@ We need to have a checklist of items to do when a product manager onboard and of
   - [ ] Send link
   - [ ] Team member adds themselves
   - [ ] Check for Public
+  - [ ] Check for 2FA
 - [ ] GitHub
      - [ ] Add to team write team
         - [ ] Change membership to maintainer
@@ -64,6 +65,7 @@ We need to have a checklist of items to do when a product manager onboard and of
 ### Resources/Instructions
 - 1password.com
 - [REPLACE with Google Drive Link]
+- Check public and 2FA at [people page]
 - [REPLACE with GitHub Team URL]
    - [base (read)]
    - [write]
