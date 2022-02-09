@@ -76,6 +76,7 @@ We need to have a checklist of items to do when a product manager onboard and of
 ### Resources/Instructions
 - 1password.com
 - [REPLACE with Google Drive Link]
+- [REPLACE with Team Roster]
 - Check public and 2FA at [people page](https://github.com/orgs/hackforla/people)
 - [REPLACE with GitHub Team URL]
    - [base (read)]
