@@ -73,3 +73,4 @@ We need to have a checklist of items to do when a product manager onboard and of
    - [triage]
    - [admin]
    - [other]
+- Shortcut for adding a profile to the desktop:  chrome://settings/manageProfile
