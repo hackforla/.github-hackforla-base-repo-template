@@ -26,8 +26,8 @@ We need to have a checklist of items to do when a product manager onboard and of
 - [ ] Roster
   - [ ] Send link
   - [ ] Team member adds themselves
-  - [ ] Check for Public
-  - [ ] Check for 2FA
+  - [ ] Check for Public and note in roster
+  - [ ] Check for 2FA and note in roster
 - [ ] GitHub
      - [ ] Add to team write team
         - [ ] Change membership to maintainer
