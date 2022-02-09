@@ -39,6 +39,9 @@ We need to have a checklist of items to do when a product manager onboard and of
        - [ ] [REPLACE with name of primary vault]
        - [ ] [REPLACE with name of secondary vault]
        - [ ] Zoom vault
+- [ ] Add to email address(s)
+   - [ ] [REPLACE with name of primary email]
+   - [ ] [REPLACE with name of secondary email]
 - [ ] Train how to 
    - [ ] login to team account
    - [ ] setup chrome shortcut for adding to desktop
@@ -60,6 +63,10 @@ We need to have a checklist of items to do when a product manager onboard and of
      - [ ] demote member to read only team and remove from write team
 - [ ] Figma
   - [ ] remove from team
+- [ ] Help them delete the desktop shortcut to email address if they made one.
+- [ ] Remove from email address(s)
+   - [ ] [REPLACE with name of primary email]
+   - [ ] [REPLACE with name of secondary email]
 ```
 
 ### Resources/Instructions
