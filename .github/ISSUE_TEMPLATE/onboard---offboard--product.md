@@ -41,7 +41,7 @@ We need to have a checklist of items to do when a product manager onboard and of
        - [ ] Zoom vault
 - [ ] Train how to 
    - [ ] login to team account
-   - [ ] setup chrome extension shortcut
+   - [ ] setup chrome shortcut for adding to desktop
    - [ ] use zoom spreadsheet, vault and accounts
    - [ ] calendar invite
 ```
