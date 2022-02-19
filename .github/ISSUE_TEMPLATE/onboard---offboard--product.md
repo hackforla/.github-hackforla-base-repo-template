@@ -93,4 +93,4 @@ We need to have a checklist of items to do when a product manager onboard and of
 - Tutorials
   - [Forward emails to team members](https://github.com/hackforla/product-management/wiki/Forward-emails-to-team-members)
 
-[org template](https://raw.githubusercontent.com/hackforla/.github/main/.github/ISSUE_TEMPLATE/onboard---offboard--product.md) updated 2022-02-09
+[org template](https://raw.githubusercontent.com/hackforla/.github/main/.github/ISSUE_TEMPLATE/onboard---offboard--product.md) updated 2022-02-18
