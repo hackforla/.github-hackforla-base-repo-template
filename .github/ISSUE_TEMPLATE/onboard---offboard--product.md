@@ -46,6 +46,8 @@ We need to have a checklist of items to do when a product manager onboard and of
 - [ ] Add to email address(s)
    - [ ] [REPLACE with name of primary email]
    - [ ] [REPLACE with name of secondary email]
+- [ ] Social Media Accounts with role assignment
+   - [ ] Facebook
 - [ ] Train how to 
    - [ ] login to team account
    - [ ] setup chrome shortcut for adding to desktop
@@ -71,6 +73,8 @@ We need to have a checklist of items to do when a product manager onboard and of
 - [ ] Remove from email address(s)
    - [ ] [REPLACE with name of primary email]
    - [ ] [REPLACE with name of secondary email]
+- [ ] Remove from Social Media Accounts with role assignment
+   - [ ] Facebook
 ```
 
 ### Resources/Instructions
