@@ -21,6 +21,16 @@ We need to have a checklist of items to do when a product manager onboard and of
 
 ```
 #### Onboard
+- [ ] Slack channel membership
+  - [ ] [insert name of channel]
+  - [ ] [insert name of 2nd channel]
+- [ ] Add to Google calendar invites
+   - [ ] Monday PM meeting
+   - [ ] Tuesday BA meeting
+   - [ ] Tuesday UX Research meeting
+   - [ ] Wednesday PM meeting (ad-hoc)
+   - [ ] Thursday All-team meeting
+- [ ] Add to team page on Wiki
 - [ ] Google Drive
    - [ ] Add to drive as Manager
 - [ ] Roster
@@ -56,6 +66,14 @@ We need to have a checklist of items to do when a product manager onboard and of
 ```
 ```
 #### Offboard
+- [ ] Remove from Google calendar invite
+   - [ ] Monday PM meeting
+   - [ ] Tuesday BA meeting
+   - [ ] Tuesday UX Research meeting
+   - [ ] Wednesday PM meeting (ad-hoc)
+   - [ ] Thursday All-team meeting
+- [ ] WIKI
+  - [ ] move to new place on team page
   - [ ] 1password setup
     - [ ] remove from team vaults
        - [ ] [REPLACE with name of primary vault]
@@ -78,7 +96,7 @@ We need to have a checklist of items to do when a product manager onboard and of
 ```
 
 ### Resources/Instructions
-- 1password.com
+- [1password.com](https://1password.com/)
 - [REPLACE with Google Drive Link]
 - [REPLACE with Team Roster]
 - Check public and 2FA at [people page](https://github.com/orgs/hackforla/people)
@@ -89,8 +107,10 @@ We need to have a checklist of items to do when a product manager onboard and of
    - [triage]
    - [admin]
    - [other]
+- WIKI team page: https://github.com/hackforla/[Replace with name of your project]/wiki/The-Team
+- [Replace with name of your project Figma]
 - Shortcut for adding a profile to the desktop:  chrome://settings/manageProfile
 - Tutorials
   - [Forward emails to team members](https://github.com/hackforla/product-management/wiki/Forward-emails-to-team-members)
-
+---
 [org template](https://raw.githubusercontent.com/hackforla/.github/main/.github/ISSUE_TEMPLATE/onboard---offboard--product.md) updated 2022-02-18
