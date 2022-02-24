@@ -25,11 +25,11 @@ We need to have a checklist of items to do when a product manager onboard and of
   - [ ] [insert name of channel]
   - [ ] [insert name of 2nd channel]
 - [ ] Add to Google calendar invites
-   - [ ] Monday PM meeting
-   - [ ] Tuesday BA meeting
-   - [ ] Tuesday UX Research meeting
-   - [ ] Wednesday PM meeting (ad-hoc)
-   - [ ] Thursday All-team meeting
+   - [ ] [DAY - PM meeting]
+   - [ ] [DAY - BA meeting]
+   - [ ] [DAY - UX Research meeting]
+   - [ ] [DAY - All-team meeting]
+   - [ ] [DAY - Design team meeting]
 - [ ] Add to team page on Wiki
 - [ ] Google Drive
    - [ ] Add to drive as Manager
@@ -67,11 +67,11 @@ We need to have a checklist of items to do when a product manager onboard and of
 ```
 #### Offboard
 - [ ] Remove from Google calendar invite
-   - [ ] Monday PM meeting
-   - [ ] Tuesday BA meeting
-   - [ ] Tuesday UX Research meeting
-   - [ ] Wednesday PM meeting (ad-hoc)
-   - [ ] Thursday All-team meeting
+   - [ ] [DAY - PM meeting]
+   - [ ] [DAY - BA meeting]
+   - [ ] [DAY - UX Research meeting]
+   - [ ] [DAY - All-team meeting]
+   - [ ] [DAY - Design team meeting]
 - [ ] WIKI
   - [ ] move to new place on team page
   - [ ] 1password setup
