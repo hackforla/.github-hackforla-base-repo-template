@@ -1,0 +1,10 @@
+
+{
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.fontSize": 14,
+    "editor.formatOnSave": true,
+    "editor.wordWrap": "on",
+    "explorer.sortOrder": "type",
+    "python.formatting.provider": "black",
+    "terminal.integrated.fontSize": 14
+  }
