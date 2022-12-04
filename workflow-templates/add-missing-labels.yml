@@ -1,0 +1,16 @@
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  add_missing_label:
+    runs-on: ubuntu-latest
+    name: A job to add missing labels
+    steps:
+      - name: Add labels step
+        uses: Aveline-art/javascript-template-test@v0.0.1-alpha
+        with:
+          githubToken: ${{ secrets.GITHUB_TOKEN }}
+          labelMap1: "documentation ~ size: missing"
+          labelMap2: "Feature ~ Feature: missing"
+          labelMap3: "role ~ role: missing"
