@@ -21,6 +21,14 @@ We need to have a checklist of items to do when a product manager onboard and of
 
 ```
 #### Onboard
+- [ ] Google Drive
+   - [ ] Add to drive as Manager
+- [ ] Roster
+  - [ ] Send link
+  - [ ] Team member adds themselves
+  - [ ] Check for Public and note in roster
+  - [ ] Check for 2FA and note in roster
+  - [ ] Check to make sure all the information is added to the roster
 - [ ] Slack channel membership
   - [ ] [insert name of channel]
   - [ ] [insert name of 2nd channel]
@@ -31,13 +39,6 @@ We need to have a checklist of items to do when a product manager onboard and of
    - [ ] [DAY - All-team meeting]
    - [ ] [DAY - Design team meeting]
 - [ ] Add to team page on Wiki
-- [ ] Google Drive
-   - [ ] Add to drive as Manager
-- [ ] Roster
-  - [ ] Send link
-  - [ ] Team member adds themselves
-  - [ ] Check for Public and note in roster
-  - [ ] Check for 2FA and note in roster
 - [ ] GitHub
      - [ ] Add to team write team
         - [ ] Change membership to maintainer
